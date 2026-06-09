@@ -1,0 +1,101 @@
+Transaction_ID,Gender,Age_Group,City,Membership_Type,Product_Category,Payment_Method,Quantity,Unit_Price,Total_Sales,Satisfaction_Rating
+TXN001,Female,18-25,Lahore,Gold,Electronics,Card,2,550,1100,5
+TXN002,Female,26-35,Karachi,Silver,Clothing,Cash,3,45,135,4
+TXN003,Female,36-45,Islamabad,Bronze,Groceries,Easypaisa,5,22,110,3
+TXN004,Female,18-25,Lahore,Gold,Cosmetics,Card,2,80,160,5
+TXN005,Male,46-55,Faisalabad,Silver,Home Decor,Cash,1,320,320,4
+TXN006,Female,26-35,Multan,Gold,Electronics,Card,1,900,900,5
+TXN007,Male,18-25,Karachi,Bronze,Clothing,JazzCash,4,35,140,3
+TXN008,Female,36-45,Lahore,Silver,Groceries,Cash,8,18,144,4
+TXN009,Male,26-35,Islamabad,Gold,Electronics,Card,2,700,1400,5
+TXN010,Female,18-25,Faisalabad,Bronze,Cosmetics,Easypaisa,3,65,195,4
+TXN011,Male,56+,Lahore,Silver,Home Decor,Cash,2,250,500,4
+TXN012,Female,26-35,Karachi,Gold,Electronics,Card,1,1200,1200,5
+TXN013,Male,36-45,Multan,Bronze,Groceries,JazzCash,6,20,120,3
+TXN014,Female,46-55,Islamabad,Silver,Clothing,Cash,2,55,110,4
+TXN015,Female,18-25,Lahore,Gold,Electronics,Card,3,450,1350,5
+TXN016,Female,26-35,Faisalabad,Silver,Cosmetics,Easypaisa,1,95,95,4
+TXN017,Male,36-45,Karachi,Bronze,Home Decor,Cash,1,400,400,3
+TXN018,Female,18-25,Multan,Gold,Groceries,Card,10,15,150,5
+TXN019,Female,26-35,Islamabad,Silver,Electronics,JazzCash,1,800,800,4
+TXN020,Female,36-45,Lahore,Bronze,Clothing,Cash,5,40,200,3
+TXN021,Male,46-55,Karachi,Gold,Electronics,Card,2,650,1300,5
+TXN022,Female,18-25,Faisalabad,Silver,Cosmetics,Easypaisa,4,70,280,4
+TXN023,Male,26-35,Multan,Bronze,Groceries,Cash,7,25,175,3
+TXN024,Female,36-45,Islamabad,Gold,Home Decor,Card,2,300,600,5
+TXN025,Female,18-25,Lahore,Silver,Clothing,JazzCash,3,50,150,4
+TXN026,Female,26-35,Karachi,Bronze,Groceries,Cash,9,17,153,3
+TXN027,Male,36-45,Faisalabad,Gold,Electronics,Card,1,1000,1000,5
+TXN028,Female,46-55,Multan,Silver,Home Decor,Easypaisa,2,275,550,4
+TXN029,Male,26-35,Islamabad,Bronze,Cosmetics,Cash,3,60,180,3
+TXN030,Female,18-25,Lahore,Gold,Electronics,Card,2,750,1500,5
+TXN031,Male,36-45,Karachi,Silver,Clothing,Cash,4,42,168,4
+TXN032,Female,26-35,Multan,Bronze,Groceries,JazzCash,5,21,105,3
+TXN033,Female,18-25,Faisalabad,Gold,Electronics,Card,1,850,850,5
+TXN034,Female,46-55,Islamabad,Silver,Home Decor,Cash,1,350,350,4
+TXN035,Male,26-35,Lahore,Bronze,Cosmetics,Easypaisa,2,75,150,3
+TXN036,Female,36-45,Karachi,Gold,Electronics,Card,3,500,1500,5
+TXN037,Male,18-25,Multan,Silver,Groceries,Cash,8,19,152,4
+TXN038,Female,26-35,Faisalabad,Bronze,Clothing,JazzCash,2,48,96,3
+TXN039,Male,46-55,Islamabad,Gold,Electronics,Card,1,1300,1300,5
+TXN040,Female,18-25,Lahore,Silver,Cosmetics,Easypaisa,5,55,275,4
+TXN041,Male,26-35,Karachi,Bronze,Home Decor,Cash,2,290,580,3
+TXN042,Female,36-45,Multan,Gold,Electronics,Card,2,600,1200,5
+TXN043,Male,18-25,Faisalabad,Silver,Clothing,Cash,3,38,114,4
+TXN044,Female,26-35,Islamabad,Bronze,Groceries,JazzCash,6,24,144,3
+TXN045,Male,36-45,Lahore,Gold,Electronics,Card,1,950,950,5
+TXN046,Female,46-55,Karachi,Silver,Home Decor,Cash,3,220,660,4
+TXN047,Male,26-35,Multan,Bronze,Cosmetics,Easypaisa,4,68,272,3
+TXN048,other,18-25,Faisalabad,Gold,Electronics,Card,2,725,1450,5
+TXN049,Male,36-45,Islamabad,Silver,Groceries,Cash,9,16,144,4
+TXN050,other,26-35,Lahore,Bronze,Clothing,JazzCash,2,52,104,3
+TXN051,Male,18-25,Karachi,Gold,Electronics,Card,1,1100,1100,5
+TXN052,Female,36-45,Multan,Silver,Home Decor,Cash,2,340,680,4
+TXN053,Male,26-35,Faisalabad,Bronze,Cosmetics,Easypaisa,3,72,216,3
+TXN054,Female,18-25,Islamabad,Gold,Electronics,Card,2,580,1160,5
+TXN055,Male,46-55,Lahore,Silver,Clothing,Cash,5,44,220,4
+TXN056,other,26-35,Karachi,Bronze,Groceries,JazzCash,7,23,161,3
+TXN057,Male,36-45,Multan,Gold,Electronics,Card,1,980,980,5
+TXN058,Female,18-25,Faisalabad,Silver,Home Decor,Cash,1,410,410,4
+TXN059,Male,26-35,Islamabad,Bronze,Cosmetics,Easypaisa,2,88,176,3
+TXN060,other,36-45,Lahore,Gold,Electronics,Card,3,520,1560,5
+TXN061,Male,18-25,Karachi,Silver,Groceries,Cash,10,14,140,4
+TXN062,Female,26-35,Multan,Bronze,Clothing,JazzCash,4,41,164,3
+TXN063,Male,46-55,Faisalabad,Gold,Electronics,Card,2,675,1350,5
+TXN064,Female,18-25,Islamabad,Silver,Cosmetics,Easypaisa,3,77,231,4
+TXN065,other,36-45,Lahore,Bronze,Home Decor,Cash,2,260,520,3
+TXN066,Female,26-35,Karachi,Gold,Electronics,Card,1,1400,1400,5
+TXN067,Male,18-25,Multan,Silver,Clothing,Cash,3,46,138,4
+TXN068,Female,36-45,Faisalabad,Bronze,Groceries,JazzCash,8,20,160,3
+TXN069,Male,26-35,Islamabad,Gold,Electronics,Card,2,625,1250,5
+TXN070,Female,46-55,Lahore,Silver,Home Decor,Cash,1,370,370,4
+TXN071,other,18-25,Karachi,Bronze,Cosmetics,Easypaisa,5,58,290,3
+TXN072,Female,26-35,Multan,Gold,Electronics,Card,1,870,870,5
+TXN073,Male,36-45,Faisalabad,Silver,Groceries,Cash,6,26,156,4
+TXN074,Female,18-25,Islamabad,Bronze,Clothing,JazzCash,2,53,106,3
+TXN075,Male,26-35,Lahore,Gold,Electronics,Card,3,490,1470,5
+TXN076,Female,36-45,Karachi,Silver,Home Decor,Cash,2,310,620,4
+TXN077,Male,18-25,Multan,Bronze,Cosmetics,Easypaisa,1,82,82,3
+TXN078,Female,26-35,Faisalabad,Gold,Electronics,Card,2,710,1420,5
+TXN079,Male,46-55,Islamabad,Silver,Clothing,Cash,4,39,156,4
+TXN080,Female,18-25,Lahore,Bronze,Groceries,JazzCash,7,18,126,3
+TXN081,Male,26-35,Karachi,Gold,Electronics,Card,1,1250,1250,5
+TXN082,Female,36-45,Multan,Silver,Home Decor,Cash,3,280,840,4
+TXN083,Male,18-25,Faisalabad,Bronze,Cosmetics,Easypaisa,2,69,138,3
+TXN084,Female,26-35,Islamabad,Gold,Electronics,Card,2,560,1120,5
+TXN085,Male,36-45,Lahore,Silver,Groceries,Cash,9,19,171,4
+TXN086,Female,18-25,Karachi,Bronze,Clothing,JazzCash,5,37,185,3
+TXN087,Male,26-35,Multan,Gold,Electronics,Card,1,920,920,5
+TXN088,Female,46-55,Faisalabad,Silver,Home Decor,Cash,2,295,590,4
+TXN089,Male,18-25,Islamabad,Bronze,Cosmetics,Easypaisa,4,63,252,3
+TXN090,Female,26-35,Lahore,Gold,Electronics,Card,3,530,1590,5
+TXN091,Male,36-45,Karachi,Silver,Groceries,Cash,8,22,176,4
+TXN092,Female,18-25,Multan,Bronze,Clothing,JazzCash,2,49,98,3
+TXN093,Male,26-35,Faisalabad,Gold,Electronics,Card,2,760,1520,5
+TXN094,Female,36-45,Islamabad,Silver,Home Decor,Cash,1,390,390,4
+TXN095,Male,18-25,Lahore,Bronze,Cosmetics,Easypaisa,3,71,213,3
+TXN096,Female,26-35,Karachi,Gold,Electronics,Card,1,1180,1180,5
+TXN097,Male,46-55,Multan,Silver,Groceries,Cash,10,17,170,4
+TXN098,Female,18-25,Faisalabad,Bronze,Clothing,JazzCash,3,43,129,3
+TXN099,Male,36-45,Islamabad,Gold,Electronics,Card,2,690,1380,5
+TXN100,Female,26-35,Lahore,Silver,Home Decor,Cash,2,330,660,4
